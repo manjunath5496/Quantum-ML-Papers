@@ -1,89 +1,91 @@
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(1).pdf" style="text-decoration:none;">Artificial Intelligence and Human Thinking</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(2).pdf" style="text-decoration:none;">Artificial Intelligence and its Role in Near Future  </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(3).pdf" style="text-decoration:none;">Future Progress in Artificial Intelligence: A Survey of Expert Opinion</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(4).pdf" style="text-decoration:none;">AI | Professor John McCarthy</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(5).pdf" style="text-decoration:none;">Artificial Intelligence: Adversarial Search</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(6).pdf" style="text-decoration:none;">Artificial Intelligence: Constraint Satisfaction Problems</a></b></li>
- 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(7).pdf" style="text-decoration:none;">Artificial Intelligence: Intelligent Agents</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(8).pdf" style="text-decoration:none;">Artificial Intelligence: Logical Agents</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(9).pdf" style="text-decoration:none;">Artificial Intelligence: Machine Learning Association Rules</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(10).pdf" style="text-decoration:none;">Classification </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(11).pdf" style="text-decoration:none;">Artificial Intelligence: Machine Learning Ensemble Methods</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(12).pdf" style="text-decoration:none;">Machine Learning: Linear Models</a></b></li>
-               <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(13).pdf" style="text-decoration:none;">Artificial Intelligence: Machine Learning Logistic Regression</a></b></li>
-               <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(14).pdf" style="text-decoration:none;">Artificial Intelligence: Machine Learning Naive Bayes</a></b></li>                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(15).pdf" style="text-decoration:none;">Artificial Intelligence: Machine Learning Neural Networks</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(16).pdf" style="text-decoration:none;">Artificial Intelligence: Machine Learning Tree classifiers</a></b></li>
+<ul>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(17).pdf" style="text-decoration:none;">Artificial Intelligence: Machine Learning Unsupervised learning </a></b></li>                              
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(18).pdf" style="text-decoration:none;">Artificial Intelligence: Natural Language Processing </a></b></li>   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(19).pdf" style="text-decoration:none;">Artificial Intelligence: Search Agents </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(1).pdf" style="text-decoration:none;">Quantum Reinforcement Learning</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(2).pdf" style="text-decoration:none;">Quantum Boltzmann Machine </a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(3).pdf" style="text-decoration:none;">Quantum Perceptron Models</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(4).pdf" style="text-decoration:none;">Quantum Machine Learning</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(5).pdf" style="text-decoration:none;">Quantum gradient descent and Newton's method for constrained polynomial optimization</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(6).pdf" style="text-decoration:none;">Reinforcement Learning Using Quantum Boltzmann Machines</a></b></li>
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(20).pdf" style="text-decoration:none;">Artificial Intelligence: Search Agents Uninformed search </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(7).pdf" style="text-decoration:none;">A Survey of Quantum Learning Theory</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(8).pdf" style="text-decoration:none;">Quantum machine learning: a classical perspective</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(9).pdf" style="text-decoration:none;">Opportunities and challenges for quantum-assisted machine learning in near-term quantum computers</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(10).pdf" style="text-decoration:none;">Quantum autoencoders via quantum adders with genetic algorithms</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(11).pdf" style="text-decoration:none;">Multiqubit and multilevel quantum reinforcement learning with quantum technologies</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(12).pdf" style="text-decoration:none;">Quantum Hopfield neural network</a></b></li>
+               <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(13).pdf" style="text-decoration:none;">Automated optimization of large quantum circuits with continuous parameters</a></b></li>
+               <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(14).pdf" style="text-decoration:none;">Quantum Neuron: an elementary building block for machine learning on quantum computers</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(15).pdf" style="text-decoration:none;">A quantum algorithm to train neural networks using low-depth circuits</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(16).pdf" style="text-decoration:none;">Unitary quantum perceptron as efficient universal approximator</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(21).pdf" style="text-decoration:none;">Artificial Intelligence: Search Agents Informed search </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(17).pdf" style="text-decoration:none;">A generative modeling approach for benchmarking and training shallow quantum circuits </a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(18).pdf" style="text-decoration:none;">Quantum Variational Autoencoder </a></b></li>   
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(19).pdf" style="text-decoration:none;">Classification with Quantum Neural Networks on Near Term Processors </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(22).pdf" style="text-decoration:none;">Artificial Intelligence: Ethics, governance and policy challenges </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(20).pdf" style="text-decoration:none;">Quantum machine learning in feature Hilbert spaces </a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(23).pdf" style="text-decoration:none;">Artificial Intelligence and Robotics and Their Impact on the Workplace </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(21).pdf" style="text-decoration:none;">Barren plateaus in quantum neural network training landscapes </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(24).pdf" style="text-decoration:none;">Artificial Intelligence and the Future of Defense</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(22).pdf" style="text-decoration:none;">Towards Quantum Machine Learning with Tensor Networks </a></b></li>                              
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(23).pdf" style="text-decoration:none;">Circuit-centric quantum classifiers</a></b></li>
+ 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(24).pdf" style="text-decoration:none;">Hierarchical quantum classifiers</a></b></li>
 
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(25).pdf" style="text-decoration:none;">Artificial intelligence (AI) in healthcare and research</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(25).pdf" style="text-decoration:none;">Quantum generative adversarial networks</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(26).pdf" style="text-decoration:none;">Artificial intelligence in India – hype or reality Impact of artificial intelligence across industries and user groups</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(26).pdf" style="text-decoration:none;">Quantum generative adversarial learning</a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(27).pdf" style="text-decoration:none;">Core Python: Creating Beautiful Code with an Interpreted, Dynamically Typed Language </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(27).pdf" style="text-decoration:none;">Quantum machine learning for data scientists</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(28).pdf" style="text-decoration:none;">Data Mining and Statistics: What's the Connection?</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(28).pdf" style="text-decoration:none;">Supervised learning with quantum enhanced feature spaces</a></b></li>
   
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(29).pdf" style="text-decoration:none;">Essay: Artificial Intelligence: Boon or Bane?</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(29).pdf" style="text-decoration:none;">Universal discriminative quantum neural networks</a></b></li>
  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(30).pdf" style="text-decoration:none;">Machine Learning that Matters</a></b></li> 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(30).pdf" style="text-decoration:none;">Continuous-variable quantum neural networks</a></b></li> 
  
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(31).pdf" style="text-decoration:none;">Robot Path Planning </a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(31).pdf" style="text-decoration:none;">A Universal Training Algorithm for Quantum Deep Learning</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(32).pdf" style="text-decoration:none;">Preparing for the Future of Artificial Intelligence </a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(32).pdf" style="text-decoration:none;">Bayesian Deep Learning on a Quantum Computer </a></b></li> 
  
   
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(33).pdf" style="text-decoration:none;">The Quest for Artificial Intelligence: A History of Ideas and Achievements</a></b></li>                              
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(33).pdf" style="text-decoration:none;">A quantum-inspired classical algorithm for recommendation systems</a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(34).pdf" style="text-decoration:none;">Regulation of Artificial Intelligence in Selected Jurisdictions</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(34).pdf" style="text-decoration:none;">Quantum generative adversarial learning in a superconducting quantum circuit</a></b></li> 
  
  
                          
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(35).pdf" style="text-decoration:none;">Reinforcement Learning</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(36).pdf" style="text-decoration:none;">The Artificial Intelligence Black Box and the Failure of Intent and Causation </a></b></li>
-                                <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(37).pdf" style="text-decoration:none;">The economics of artificial intelligence: Implications for the future of work</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(38).pdf" style="text-decoration:none;">Explainable AI for Designers: A Human-Centered Perspective on Mixed-Initiative Co-Creation</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(39).pdf" style="text-decoration:none;">Network Dissection: Quantifying Interpretability of Deep Visual Representations</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(40).pdf" style="text-decoration:none;">Interpretable Explanations of Black Boxes by Meaningful Perturbation</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(35).pdf" style="text-decoration:none;">Quantum algorithms and lower bounds for convex optimization</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(36).pdf" style="text-decoration:none;">Production of photonic universal quantum gates enhanced by machine learning </a></b></li>
+    <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(37).pdf" style="text-decoration:none;">Quantum Convolutional Neural Networks</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(38).pdf" style="text-decoration:none;">The Expressive Power of Parameterized Quantum Circuits</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(39).pdf" style="text-decoration:none;">Quantum-inspired classical algorithms for principal component analysis and supervised clustering</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(40).pdf" style="text-decoration:none;">An Artificial Neuron Implemented on an Actual Quantum Processor</a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(41).pdf" style="text-decoration:none;">A brief survey of visualization methods for deep learning models from the perspective of Explainable AI.</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(42).pdf" style="text-decoration:none;">Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks</a></b></li>
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(43).pdf" style="text-decoration:none;">Neural network inversion beyond gradient descent</a></b></li>                             
- <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(44).pdf" style="text-decoration:none;">NLIZE: A Perturbation-Driven Visual Interrogation Tool for Analyzing and Interpreting Natural Language Inference Models</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(45).pdf" style="text-decoration:none;">Towards Robust Interpretability with Self-Explaining Neural Networks</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(46).pdf" style="text-decoration:none;">Axiomatic Attribution for Deep Networks</a></b></li>
-               <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(47).pdf" style="text-decoration:none;">Interpretable and Fine-Grained Visual Explanations for Convolutional Neural Networks</a></b></li>
-               <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(48).pdf" style="text-decoration:none;">Explainable Artificial Intelligence via Bayesian Teaching</a></b></li>                             
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(49).pdf" style="text-decoration:none;">Understanding Neural Networks Through Deep Visualization</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(50).pdf" style="text-decoration:none;">Visualizing and Understanding Convolutional Networks</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(41).pdf" style="text-decoration:none;">Quantum-inspired low-rank stochastic regression with logarithmic dependence on the dimension</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(42).pdf" style="text-decoration:none;">Graph Cut Segmentation Methods Revisited with a Quantum Algorithm</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(43).pdf" style="text-decoration:none;">q-means: A quantum algorithm for unsupervised machine learning</a></b></li>                             
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(44).pdf" style="text-decoration:none;">Quantum Statistical Inference</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(45).pdf" style="text-decoration:none;">Quantum Sparse Support Vector Machines</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(46).pdf" style="text-decoration:none;">Efficient Learning for Deep Quantum Neural Networks</a></b></li>
+               <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(47).pdf" style="text-decoration:none;">Quantum hardness of learning shallow classical circuits</a></b></li>
+               <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(48).pdf" style="text-decoration:none;">Sublinear quantum algorithms for training linear and kernel-based classifiers</a></b></li>                             
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(49).pdf" style="text-decoration:none;">Building quantum neural networks based on swap test</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(50).pdf" style="text-decoration:none;">Parameterized quantum circuits as machine learning models</a></b></li>
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(51).pdf" style="text-decoration:none;">Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps </a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(52).pdf" style="text-decoration:none;">Striving for Simplicity: The All Convolutional Net</a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(51).pdf" style="text-decoration:none;">Machine Learning Phase Transitions with a Quantum Processor </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(52).pdf" style="text-decoration:none;">Sampling-based sublinear low-rank matrix arithmetic framework for dequantizing quantum machine learning</a></b></li>
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(53).pdf" style="text-decoration:none;">"Why Should I Trust You?": Explaining the Predictions of Any Classifier </a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(53).pdf" style="text-decoration:none;">Quantum Algorithms for Deep Convolutional Neural Networks </a></b></li>
  
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(54).pdf" style="text-decoration:none;">Not Just A Black Box: Learning Important Features Through Propagating Activation Differences </a></b></li>                              
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(54).pdf" style="text-decoration:none;">Hybrid Quantum-Classical Convolutional Neural Networks </a></b></li>                              
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(55).pdf" style="text-decoration:none;">A Taxonomy and Library for Visualizing Learned Features in Convolutional Neural Networks </a></b></li>
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(55).pdf" style="text-decoration:none;">Machine learning method for state preparation and gate synthesis on photonic quantum computers </a></b></li>
  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/AI-Lecture-Notes/blob/master/air(56).pdf" style="text-decoration:none;">Visualizing Deep Neural Network Decisions: Prediction Difference Analysis</a></b></li>
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Quantum-ML-Papers/blob/master/qml(56).pdf" style="text-decoration:none;">Quantum Machine Learning: What Quantum Computing Means to Data Mining</a></b></li>
    
  </ul>  
    
